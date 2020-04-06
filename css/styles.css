@@ -44,6 +44,9 @@ img.Avatar
   }
    
 /*  about me page  */
+body {
+  background-color: #f0f8ff;
+}
 div.container
 {
   margin-bottom: 3%;
