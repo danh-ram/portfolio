@@ -20,7 +20,7 @@
 _With learning new technologies it best to stick with it, as it comes with alot of hiccups at first. But once settled in, it will become easier._
 
 ## Link to gh-pages webpage
-* https://joeyjones.github.io/portfolio/
+* https://danh-ram.github.io/portfolio/
 
 
 ## Support and contact details
